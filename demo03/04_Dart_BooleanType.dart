@@ -10,7 +10,7 @@ void main(List<String> args) {
   if (flag) {
     print("true");
   } else {
-    print("false");
+    print("false")
   }
 
   var a = 123;
