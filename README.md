@@ -1,7 +1,5 @@
 # Flutter Study Group
 
-## I. Guidelines and Rules
-
 ### 1. Course Link
 
 [Dart Flutter 教程\_Dart Flutter3.x 入门实战视频教程-16 讲后是 Flutter 教程](https://www.bilibili.com/video/BV1S4411E7LY/?spm_id_from=333.337.search-card.all.click&vd_source=feb0e2b9eaf6e44eee2d9caa2c30a61e)
@@ -13,7 +11,7 @@
 - [x] `01 Dart 介紹 - Win Mac 上面分別搭建 Dart、環境開發工具配置以及運行 Dart`(7:20)
 - [x] `02 Dart 入口方法介紹 - Dart 打印、Dart註釋、Dart變量、常量申明、變量命名規則`(17:47) - James
 - [x] `03 Dart 的數據類型詳解 - int double String bool List Maps`(39:20) - Roger
-- [ ] `04 Dart 運算符 - 條件表達式、Dart 類型轉換`(35:07) -Beck
+- [x] `04 Dart 運算符 - 條件表達式、Dart 類型轉換`(35:07) -Beck
 - [ ] `05 Dart 循環語句 - for while do ... while break continue 多維列表循環`(37:31) - Charles
 - [ ] `06 Dart 集合類型 - List Set Map 詳解以及循環語句 forEach/ map/ where/ any/ every`(41:13)
 - [ ] `07 Dart 中的函數 - 函數的定義、可選參數、默認參數、命名參數、箭頭函數、匿名函數、閉包等`(30:47)
