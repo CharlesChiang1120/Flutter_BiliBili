@@ -1,5 +1,3 @@
-import 'dart:async';
-
 void main(List<String> args) {
   var str = '1234';
 

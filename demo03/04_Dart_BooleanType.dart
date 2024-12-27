@@ -6,12 +6,12 @@ void main(List<String> args) {
   print(flag2);
 
   // if-else
-  var flag = true;
-  if (flag) {
-    print("true");
-  } else {
-    print("false")
-  }
+  // var flag = true;
+  // if (flag) {
+  //   print("true");
+  // } else {
+  //   print("false");
+  // }
 
   var a = 123;
   var b = '123';
