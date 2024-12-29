@@ -12,7 +12,7 @@
 - [x] `02 Dart 入口方法介紹 - Dart 打印、Dart註釋、Dart變量、常量申明、變量命名規則`(17:47) - James
 - [x] `03 Dart 的數據類型詳解 - int double String bool List Maps`(39:20) - Roger
 - [x] `04 Dart 運算符 - 條件表達式、Dart 類型轉換`(35:07) -Beck
-- [ ] `05 Dart 循環語句 - for while do ... while break continue 多維列表循環`(37:31) - Charles
+- [x] `05 Dart 循環語句 - for while do ... while break continue 多維列表循環`(37:31) - Charles
 - [ ] `06 Dart 集合類型 - List Set Map 詳解以及循環語句 forEach/ map/ where/ any/ every`(41:13)
 - [ ] `07 Dart 中的函數 - 函數的定義、可選參數、默認參數、命名參數、箭頭函數、匿名函數、閉包等`(30:47)
 - [ ] `08 Dart 中的函數 - 箭頭函數、匿名函數、閉包等`(22:21)
