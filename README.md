@@ -4,9 +4,7 @@
 
 [Dart Flutter](https://www.bilibili.com/video/BV1S4411E7LY/?spm_id_from=333.337.search-card.all.click&vd_source=feb0e2b9eaf6e44eee2d9caa2c30a61e)
 
-### 2. Course Todo List
-
-# Dart & Flutter 影片清單
+### Dart & Flutter 影片清單
 
 <details>
 <summary>Dart</summary>
