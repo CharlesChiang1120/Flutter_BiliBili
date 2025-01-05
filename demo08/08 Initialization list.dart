@@ -18,7 +18,7 @@ class Rect {
   }
 }
 
-void main() {
+void main(List<String> args) {
   Rect r = new Rect();
   print(r.getArea());
 }

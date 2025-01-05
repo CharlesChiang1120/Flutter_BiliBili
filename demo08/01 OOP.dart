@@ -18,14 +18,13 @@
 */
 
 void main(List<String> args) {
-  // 最新版本的dart中不能用了
+  // 最新版本的 dart 中不能用了
   // List list=new List();
   // list.isEmpty;
   // list.add('香蕉');
-  // list.add('香蕉1');
 
   Map m = new Map();
-  m["username"] = "张三";
+  m["username"] = "changsan";
   m.addAll({"age": 20});
   m.isEmpty;
 
