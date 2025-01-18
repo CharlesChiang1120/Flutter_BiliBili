@@ -18,19 +18,35 @@ class Person {
   void printInfo() {
     print("${this.name}---${this.age}");
   }
+
+  work() {
+    print("${this.name} is looking for a job");
+  }
 }
 
 class Web extends Person {
-  Web(super.name, super.age);
+  String sex;
+  Web(super.name, super.age, this.sex);
+  run() {
+    print("${this.name}---${this.age}---${this.sex}");
+    super.work();
+  }
+
+  @override
+  void printInfo() {
+    // TODO: implement printInfo
+    print("Override printInfo...");
+  }
+
+  @override
+  work() {
+    // TODO: implement work
+    print("Override work");
+  }
 }
 
 void main(List<String> args) {
-  Person p = new Person("lisi", 20);
-  p.printInfo();
-
-  Person p1 = new Person("changsan", 20);
-  p1.printInfo();
-
-  Web w = new Web("changsan", 12);
+  Web w = new Web("lisi", 20, "m");
   w.printInfo();
+  w.run();
 }

@@ -15,13 +15,18 @@ class Person {
   String name = 'changsan';
   int age = 20;
   Person(this.name, this.age);
+  Person.xxx(this.name, this.age);
   void printInfo() {
     print("${this.name}---${this.age}");
   }
 }
 
 class Web extends Person {
-  Web(super.name, super.age);
+  String sex;
+  Web(String name, int age, this.sex) : super.xxx(name, age);
+  run() {
+    print("${this.name}---${this.age}---${this.sex}");
+  }
 }
 
 void main(List<String> args) {
@@ -31,6 +36,7 @@ void main(List<String> args) {
   Person p1 = new Person("changsan", 20);
   p1.printInfo();
 
-  Web w = new Web("changsan", 12);
+  Web w = new Web("changsan", 12, "m");
   w.printInfo();
+  w.run();
 }
