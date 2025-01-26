@@ -1,0 +1,9 @@
+name: xxx
+description: A new flutter module project.
+
+environment:
+  sdk: ">=2.12.0 <4.0.0" # 支持 Null Safety
+
+dependencies:
+  http: ^1.0.0 # 確保為最新的 Null Safety 版本
+  date_format: ^2.0.3 # 確保為最新的 Null Safety 版本
