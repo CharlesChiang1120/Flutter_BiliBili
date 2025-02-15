@@ -34,10 +34,10 @@
 <summary>Flutter</summary>
 
 <ol>
-<li>[ ] 17 Flutter 介紹 - Flutter Windows/Android 環境搭建、真機調試 (47:01)</li>
-<li>[ ] 18 Flutter Android 真機器調試、虛擬機調試以及在 VScode 中開發 Flutter 應用 (22:42)</li>
-<li>[ ] 19 Mac 電腦搭建 Flutter IOS 環境以及讓 Flutter 運行在 IOS 設備上 (30:08)</li>
-<li>[ ] 20 Flutter 目錄結構介紹、入口、自定義widget、Center 組件、Text 組件、MaterialAPP 組件、Scaffold 組件 (30:32)</li>
+<li>[X] 17 Flutter 介紹 - Flutter Windows/Android 環境搭建、真機調試 (47:01)</li>
+<li>[X] 18 Flutter Android 真機器調試、虛擬機調試以及在 VScode 中開發 Flutter 應用 (22:42)</li>
+<li>[X] 19 Mac 電腦搭建 Flutter IOS 環境以及讓 Flutter 運行在 IOS 設備上 (30:08)</li>
+<li>[X] 20 Flutter 目錄結構介紹、入口、自定義widget、Center 組件、Text 組件、MaterialAPP 組件、Scaffold 組件 (30:32)</li>
 <li>[ ] 21 Flutter Container 組件、Text 組件詳解 (45:05)</li>
 <li>[ ] 22 Flutter 圖片組件 - Image、本地圖片、遠程圖片、圖片剪切 (28:50)</li>
 <li>[ ] 23 Flutter ICON 圖標、自帶圖標和自訂義圖標 (27:33)</li>
