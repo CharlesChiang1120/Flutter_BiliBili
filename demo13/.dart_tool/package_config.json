@@ -80,8 +80,10 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2025-01-26T05:39:47.615067Z",
+  "generated": "2025-02-15T08:13:31.431528Z",
   "generator": "pub",
-  "generatorVersion": "3.5.4",
+  "generatorVersion": "3.6.1",
+  "flutterRoot": "file:///opt/homebrew/Caskroom/flutter/3.27.3/flutter",
+  "flutterVersion": "3.27.3",
   "pubCache": "file:///Users/charleschiang/.pub-cache"
 }
