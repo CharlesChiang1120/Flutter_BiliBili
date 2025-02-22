@@ -38,9 +38,9 @@
 <li>[X] 18 Flutter Android 真機器調試、虛擬機調試以及在 VScode 中開發 Flutter 應用 (22:42)</li>
 <li>[X] 19 Mac 電腦搭建 Flutter IOS 環境以及讓 Flutter 運行在 IOS 設備上 (30:08)</li>
 <li>[X] 20 Flutter 目錄結構介紹、入口、自定義widget、Center 組件、Text 組件、MaterialAPP 組件、Scaffold 組件 (30:32)</li>
-<li>[ ] 21 Flutter Container 組件、Text 組件詳解 (45:05)</li>
-<li>[ ] 22 Flutter 圖片組件 - Image、本地圖片、遠程圖片、圖片剪切 (28:50)</li>
-<li>[ ] 23 Flutter ICON 圖標、自帶圖標和自訂義圖標 (27:33)</li>
+<li>[X] 21 Flutter Container 組件、Text 組件詳解 (45:05)</li>
+<li>[X] 22 Flutter 圖片組件 - Image、本地圖片、遠程圖片、圖片剪切 (28:50)</li>
+<li>[X] 23 Flutter ICON 圖標、自帶圖標和自訂義圖標 (27:33)</li>
 <li>[ ] 24 Flutter ListView - 列表組件、普通列表、ICON 列表、圖文列表、可以滑動的水平列表 (33:27)</li>
 <li>[ ] 25 Flutter ListView - 動態列表組件、以及循環動態數據 (24:43)</li>
 <li>[ ] 26 Flutter Flutter GridViewr 及動態 GridView詳解 (35:18)</li>
