@@ -41,9 +41,9 @@
 <li>[X] 21 Flutter Container 組件、Text 組件詳解 (45:05)</li>
 <li>[X] 22 Flutter 圖片組件 - Image、本地圖片、遠程圖片、圖片剪切 (28:50)</li>
 <li>[X] 23 Flutter ICON 圖標、自帶圖標和自訂義圖標 (27:33)</li>
-<li>[ ] 24 Flutter ListView - 列表組件、普通列表、ICON 列表、圖文列表、可以滑動的水平列表 (33:27)</li>
-<li>[ ] 25 Flutter ListView - 動態列表組件、以及循環動態數據 (24:43)</li>
-<li>[ ] 26 Flutter Flutter GridViewr 及動態 GridView詳解 (35:18)</li>
+<li>[X] 24 Flutter ListView - 列表組件、普通列表、ICON 列表、圖文列表、可以滑動的水平列表 (33:27)</li>
+<li>[X] 25 Flutter ListView - 動態列表組件、以及循環動態數據 (24:43)</li>
+<li>[X] 26 Flutter Flutter GridViewr 及動態 GridView詳解 (35:18)</li>
 <li>[ ] 27 Flutter 頁面佈局 - Padding Row Column Flex Expanded 組件詳解 (46:41)</li>
 <li>[ ] 28 Flutter 頁面佈局 - Stack 層疊組件、Stack 與 Align Stack 與 Positioned 實規定位佈局 (35:34)</li>
 <li>[ ] 29 Flutter AspectRadio Card CircleAvatar 組件</li>
