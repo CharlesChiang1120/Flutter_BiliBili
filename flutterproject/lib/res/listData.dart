@@ -3,7 +3,7 @@ List listData = [
     "company": "Apple Inc.",
     "founder": "Steve Jobs",
     "logoURL":
-        "https://storage.googleapis.com/webdesignledger.pub.network/WDL/maxresdefault.jpg"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzac8b2HE_gybK-u6G3OpFYrEbZvxT6biqSA&s"
   },
   {
     "company": "Microsoft",
